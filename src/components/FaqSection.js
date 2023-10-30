@@ -2,7 +2,6 @@ import React from "react";
 import styled from "styled-components";
 import { About } from "../styles";
 import Toggle from "./Toggle";
-import { AnimateSharedLayout } from "framer-motion";
 
 const FaqSection = () => {
   return (
